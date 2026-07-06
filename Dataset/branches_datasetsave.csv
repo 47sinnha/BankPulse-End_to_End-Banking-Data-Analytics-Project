@@ -1,0 +1,31 @@
+,Branch_ID,Branch_Name,City,State,Region,Tier,Branch_Type,Branch_Manager
+0,BR001,Jaipur Main Branch 1,Jaipur,Rajasthan,North,Tier 1,Rural,Vikram Rao
+1,BR002,Mumbai Main Branch 2,Mumbai,Maharashtra,South,Tier 1,Rural,Anil Sharma
+2,BR003,Jaipur Main Branch 3,Jaipur,Rajasthan,Central,Tier 1,Rural,Neha Iyer
+3,BR004,Ahmedabad Main Branch 4,Ahmedabad,Gujarat,North,Tier 1,Urban,Meena Shah
+4,BR005,Chennai Main Branch 5,Chennai,Tamil Nadu,Central,Tier 1,Rural,Meena Shah
+5,BR006,Lucknow Main Branch 6,Lucknow,Uttar Pradesh,Central,Tier 2,Urban,Neha Iyer
+6,BR007,Kolkata Main Branch 7,Kolkata,West Bengal,East,Tier 1,Urban,Neha Iyer
+7,BR008,Delhi Main Branch 8,Delhi,Delhi,East,Tier 1,Urban,Vikram Rao
+8,BR009,Surat Main Branch 9,Surat,Gujarat,North,Tier 2,Urban,Vikram Rao
+9,BR010,Kochi Main Branch 10,Kochi,Kerala,East,Tier 3,Semi-Urban,Anil Sharma
+10,BR011,Lucknow Main Branch 11,Lucknow,Uttar Pradesh,West,Tier 3,Urban,Neha Iyer
+11,BR012,Surat Main Branch 12,Surat,Gujarat,Central,Tier 2,Rural,Ajay Patel
+12,BR013,Chandigarh Main Branch 13,Chandigarh,Punjab,East,Tier 3,Urban,Anil Sharma
+13,BR014,Ahmedabad Main Branch 14,Ahmedabad,Gujarat,South,Tier 2,Urban,Meena Shah
+14,BR015,Kochi Main Branch 15,Kochi,Kerala,North,Tier 2,Semi-Urban,Neha Iyer
+15,BR016,Jaipur Main Branch 16,Jaipur,Rajasthan,East,Tier 1,Semi-Urban,Vikram Rao
+16,BR017,Mumbai Main Branch 17,Mumbai,Maharashtra,East,Tier 3,Rural,Anil Sharma
+17,BR018,Kolkata Main Branch 18,Kolkata,West Bengal,South,Tier 3,Rural,Meena Shah
+18,BR019,Vadodara Main Branch 19,Vadodara,Gujarat,West,Tier 2,Semi-Urban,Ajay Patel
+19,BR020,Mumbai Main Branch 20,Mumbai,Maharashtra,East,Tier 1,Urban,Anil Sharma
+20,BR021,Indore Main Branch 21,Indore,Madhya Pradesh,East,Tier 2,Semi-Urban,Anil Sharma
+21,BR022,Mumbai Main Branch 22,Mumbai,Maharashtra,Central,Tier 3,Semi-Urban,Meena Shah
+22,BR023,Jaipur Main Branch 23,Jaipur,Rajasthan,West,Tier 2,Rural,Neha Iyer
+23,BR024,Vadodara Main Branch 24,Vadodara,Gujarat,East,Tier 1,Urban,Ajay Patel
+24,BR025,Chennai Main Branch 25,Chennai,Tamil Nadu,East,Tier 3,Rural,Neha Iyer
+25,BR026,Chandigarh Main Branch 26,Chandigarh,Punjab,Central,Tier 2,Semi-Urban,Meena Shah
+26,BR027,Vadodara Main Branch 27,Vadodara,Gujarat,Central,Tier 2,Urban,Anil Sharma
+27,BR028,Kochi Main Branch 28,Kochi,Kerala,North,Tier 1,Rural,Meena Shah
+28,BR029,Indore Main Branch 29,Indore,Madhya Pradesh,West,Tier 3,Urban,Neha Iyer
+29,BR030,Bengaluru Main Branch 30,Bengaluru,Karnataka,Central,Tier 2,Rural,Vikram Rao

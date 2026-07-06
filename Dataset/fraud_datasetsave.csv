@@ -1,0 +1,651 @@
+,Fraud_ID,Transaction_ID,Fraud_Flag,Fraud_Type,Risk_Score,Investigation_Status
+0,F00001,T00027282,Yes,Unusual location,74,Under Review
+1,F00002,T00007328,No,Unusual location,63,Open
+2,F00003,T00014631,No,Online suspicious,51,Confirmed Fraud
+3,F00004,T00039280,Yes,High value,86,Open
+4,F00005,T00005807,Yes,Merchant risk,88,Confirmed Fraud
+5,F00006,T00030145,Yes,Unusual location,90,Cleared
+6,F00007,T00030452,Yes,Merchant risk,70,Open
+7,F00008,T00072446,No,Online suspicious,60,Open
+8,F00009,T00015667,No,High value,88,Confirmed Fraud
+9,F00010,T00068495,Yes,Unusual location,88,Confirmed Fraud
+10,F00011,T00024383,Yes,Multiple failed attempts,48,Cleared
+11,F00012,T00073416,Yes,Multiple failed attempts,62,Under Review
+12,F00013,T00058435,,High value,71,Cleared
+13,F00014,T00045352,Yes,Merchant risk,88,Open
+14,F00015,T00057835,Yes,High value,90,Cleared
+15,F00016,T00055279,No,Merchant risk,42,Cleared
+16,F00017,T00009921,Yes,Merchant risk,59,Confirmed Fraud
+17,F00018,T00021844,No,High value,65,Open
+18,F00019,T00062549,Yes,Unusual location,98,Under Review
+19,F00020,T00051582,Yes,Online suspicious,70,Open
+20,F00021,T00011510,Yes,Multiple failed attempts,58,Under Review
+21,F00022,T00005335,No,Online suspicious,49,Confirmed Fraud
+22,F00023,T00016672,Yes,Online suspicious,69,Open
+23,F00024,T00064155,No,Unusual location,59,Under Review
+24,F00025,T00000377,No,Unusual location,44,Open
+25,F00026,T00004956,Yes,Merchant risk,71,Cleared
+26,F00027,T00053205,Yes,High value,51,Confirmed Fraud
+27,F00028,T00007011,No,High value,62,Cleared
+28,F00029,T00025190,Yes,Multiple failed attempts,85,Cleared
+29,F00030,T00047231,Yes,Multiple failed attempts,87,Confirmed Fraud
+30,F00031,T00018922,Yes,Merchant risk,82,Cleared
+31,F00032,T00062858,Yes,Merchant risk,99,Cleared
+32,F00033,T00045142,No,Online suspicious,66,Under Review
+33,F00034,T00059098,Yes,High value,46,Confirmed Fraud
+34,F00035,T00064901,Yes,Multiple failed attempts,89,Open
+35,F00036,T00068462,Yes,Online suspicious,71,Open
+36,F00037,T00022395,Yes,High value,77,Confirmed Fraud
+37,F00038,T00043810,Yes,High value,92,Confirmed Fraud
+38,F00039,T00067035,No,High value,42,Cleared
+39,F00040,T00056184,No,Merchant risk,49,Under Review
+40,F00041,T00053859,Yes,Merchant risk,91,Open
+41,F00042,T00001439,No,Multiple failed attempts,40,Confirmed Fraud
+42,F00043,T00008459,Yes,Unusual location,82,Under Review
+43,F00044,T00021591,No,Merchant risk,59,Open
+44,F00045,T00008803,Yes,Merchant risk,69,Cleared
+45,F00046,T00037946,Yes,Online suspicious,85,Under Review
+46,F00047,T00038076,Yes,High value,72,Cleared
+47,F00048,T00018604,Yes,Online suspicious,77,Confirmed Fraud
+48,F00049,T00022679,No,Merchant risk,45,Open
+49,F00050,T00070413,Yes,Merchant risk,87,Open
+50,F00051,T00013648,Yes,High value,54,Cleared
+51,F00052,T00051729,Yes,Multiple failed attempts,87,Confirmed Fraud
+52,F00053,T00018537,No,Merchant risk,40,Open
+53,F00054,T00034064,Yes,Multiple failed attempts,81,Confirmed Fraud
+54,F00055,T00059638,Yes,Merchant risk,80,Open
+55,F00056,T00071852,Yes,Online suspicious,65,Under Review
+56,F00057,T00033743,Yes,Unusual location,72,Under Review
+57,F00058,T00047841,Yes,Unusual location,67,Confirmed Fraud
+58,F00059,T00074475,No,Unusual location,67,Cleared
+59,F00060,T00046275,No,Multiple failed attempts,45,Under Review
+60,F00061,T00023561,Yes,Unusual location,62,Confirmed Fraud
+61,F00062,T00021627,Yes,Multiple failed attempts,57,Open
+62,F00063,T00019669,No,Multiple failed attempts,43,Open
+63,F00064,T00026694,Yes,Multiple failed attempts,54,Confirmed Fraud
+64,F00065,T00029944,Yes,Unusual location,42,Cleared
+65,F00066,T00060594,No,Unusual location,69,Under Review
+66,F00067,T00063589,Yes,Unusual location,93,Confirmed Fraud
+67,F00068,T00004580,Yes,High value,94,Open
+68,F00069,T00000725,Yes,Online suspicious,42,Under Review
+69,F00070,T00068457,Yes,Multiple failed attempts,87,Cleared
+70,F00071,T00069313,Yes,Merchant risk,77,Open
+71,F00072,T00071535,Yes,High value,52,Under Review
+72,F00073,T00030491,No,Unusual location,57,Open
+73,F00074,T00016779,Yes,Online suspicious,81,Under Review
+74,F00075,T00071442,Yes,High value,92,Confirmed Fraud
+75,F00076,T00045945,No,Multiple failed attempts,58,Under Review
+76,F00077,T00073126,Yes,High value,86,Cleared
+77,F00078,T00058780,Yes,Multiple failed attempts,97,Confirmed Fraud
+78,F00079,T00011743,Yes,High value,63,Under Review
+79,F00080,T00001565,Yes,Unusual location,74,Open
+80,F00081,T00048448,Yes,Merchant risk,84,Under Review
+81,F00082,T00073594,No,Online suspicious,61,Open
+82,F00083,T00074781,Yes,Online suspicious,71,Open
+83,F00084,T00011750,No,Multiple failed attempts,66,Confirmed Fraud
+84,F00085,T00060591,No,High value,43,Under Review
+85,F00086,T00066365,Yes,Multiple failed attempts,54,Cleared
+86,F00087,T00023925,Yes,High value,78,Under Review
+87,F00088,T00048643,Yes,Unusual location,97,Open
+88,F00089,T00017599,Yes,Online suspicious,64,Cleared
+89,F00090,T00046748,Yes,Multiple failed attempts,87,Open
+90,F00091,T00034554,Yes,Unusual location,71,Confirmed Fraud
+91,F00092,T00002723,Yes,Multiple failed attempts,84,Open
+92,F00093,T00058190,Yes,Online suspicious,75,Open
+93,F00094,T00039716,Yes,Multiple failed attempts,49,Cleared
+94,F00095,T00065647,Yes,High value,86,Confirmed Fraud
+95,F00096,T00067159,Yes,Unusual location,50,Confirmed Fraud
+96,F00097,T00004389,No,Multiple failed attempts,41,Open
+97,F00098,T00060246,Yes,Online suspicious,78,Cleared
+98,F00099,T00013857,Yes,Unusual location,63,Under Review
+99,F00100,T00074744,Yes,Merchant risk,66,Open
+100,F00101,T00069224,Yes,Merchant risk,78,Confirmed Fraud
+101,F00102,T00060955,Yes,Multiple failed attempts,82,Open
+102,F00103,T00020435,Yes,Multiple failed attempts,80,Cleared
+103,F00104,T00053971,Yes,Multiple failed attempts,61,Under Review
+104,F00105,T00038336,Yes,Unusual location,98,Open
+105,F00106,T00058995,Yes,High value,89,Open
+106,F00107,T00060680,Yes,Online suspicious,88,Open
+107,F00108,T00004256,Yes,High value,56,Under Review
+108,F00109,T00056187,Yes,Merchant risk,45,Confirmed Fraud
+109,F00110,T00001941,Yes,Online suspicious,84,Open
+110,F00111,T00046967,Yes,Online suspicious,55,Cleared
+111,F00112,T00060878,Yes,High value,90,Under Review
+112,F00113,T00073610,Yes,Merchant risk,41,Cleared
+113,F00114,T00017193,No,Online suspicious,42,Under Review
+114,F00115,T00059914,Yes,Unusual location,92,Confirmed Fraud
+115,F00116,T00040889,Yes,High value,65,Open
+116,F00117,T00073761,Yes,Multiple failed attempts,70,Confirmed Fraud
+117,F00118,T00069437,Yes,Online suspicious,80,Confirmed Fraud
+118,F00119,T00068715,Yes,Unusual location,54,Under Review
+119,F00120,T00033917,Yes,Multiple failed attempts,58,Confirmed Fraud
+120,F00121,T00005863,Yes,Online suspicious,98,Under Review
+121,F00122,T00037017,No,Multiple failed attempts,57,Under Review
+122,F00123,T00022061,Yes,Unusual location,63,Cleared
+123,F00124,T00021970,Yes,Online suspicious,82,Open
+124,F00125,T00039483,Yes,Multiple failed attempts,95,Open
+125,F00126,T00046068,No,Online suspicious,54,Confirmed Fraud
+126,F00127,T00026540,Yes,Merchant risk,88,Open
+127,F00128,T00022105,No,Multiple failed attempts,55,Cleared
+128,F00129,T00003092,Yes,Multiple failed attempts,63,Under Review
+129,F00130,T00025062,Yes,Multiple failed attempts,73,Confirmed Fraud
+130,F00131,T00001744,Yes,High value,80,Open
+131,F00132,T00061804,Yes,High value,64,Under Review
+132,F00133,T00007466,Yes,Multiple failed attempts,89,Cleared
+133,F00134,T00069768,No,Merchant risk,67,Confirmed Fraud
+134,F00135,T00021132,Yes,Merchant risk,93,Open
+135,F00136,T00049083,Yes,Merchant risk,83,Under Review
+136,F00137,T00059275,Yes,High value,46,Under Review
+137,F00138,T00034022,Yes,High value,91,Open
+138,F00139,T00059292,Yes,Multiple failed attempts,78,Under Review
+139,F00140,T00053058,Yes,Multiple failed attempts,71,Open
+140,F00141,T00052296,Yes,Merchant risk,48,Cleared
+141,F00142,T00058807,Yes,Unusual location,78,Cleared
+142,F00143,T00073912,Yes,High value,95,Under Review
+143,F00144,T00049811,Yes,Online suspicious,71,Cleared
+144,F00145,T00048710,Yes,Multiple failed attempts,69,Cleared
+145,F00146,T00074410,Yes,Multiple failed attempts,92,Under Review
+146,F00147,T00015512,Yes,Multiple failed attempts,53,Cleared
+147,F00148,T00059862,Yes,Merchant risk,91,Cleared
+148,F00149,T00063006,Yes,Merchant risk,54,Under Review
+149,F00150,T00036380,No,High value,56,Cleared
+150,F00151,T00028237,No,Online suspicious,55,Under Review
+151,F00152,T00011130,Yes,Unusual location,81,Cleared
+152,F00153,T00015474,No,Multiple failed attempts,62,Open
+153,F00154,T00026469,Yes,High value,87,Confirmed Fraud
+154,F00155,T00056852,No,Unusual location,48,Under Review
+155,F00156,T00032424,No,Merchant risk,58,Under Review
+156,F00157,T00040728,No,Unusual location,56,Confirmed Fraud
+157,F00158,T00067347,No,Multiple failed attempts,59,Open
+158,F00159,T00013939,Yes,High value,83,Cleared
+159,F00160,T00062970,Yes,Unusual location,85,Open
+160,F00161,T00067721,Yes,Merchant risk,77,Confirmed Fraud
+161,F00162,T00054631,No,High value,40,Confirmed Fraud
+162,F00163,T00021209,Yes,Merchant risk,76,Confirmed Fraud
+163,F00164,T00000096,Yes,Unusual location,84,Confirmed Fraud
+164,F00165,T00053683,Yes,Multiple failed attempts,63,Open
+165,F00166,T00047884,Yes,Online suspicious,75,Open
+166,F00167,T00054521,Yes,Unusual location,95,Under Review
+167,F00168,T00060705,Yes,Multiple failed attempts,75,Under Review
+168,F00169,T00041891,Yes,High value,58,Cleared
+169,F00170,T00016770,No,Online suspicious,62,Confirmed Fraud
+170,F00171,T00048034,Yes,Multiple failed attempts,75,Open
+171,F00172,T00003256,Yes,Merchant risk,57,Cleared
+172,F00173,T00048120,Yes,Unusual location,51,Open
+173,F00174,T00059089,Yes,Online suspicious,45,Cleared
+174,F00175,T00007745,No,High value,46,Confirmed Fraud
+175,F00176,T00025507,Yes,Unusual location,91,Open
+176,F00177,T00058796,No,Unusual location,48,Under Review
+177,F00178,T00003985,Yes,Unusual location,95,Under Review
+178,F00179,T00058618,Yes,Multiple failed attempts,91,Confirmed Fraud
+179,F00180,T00035692,Yes,Multiple failed attempts,80,Under Review
+180,F00181,T00069568,Yes,Multiple failed attempts,96,Confirmed Fraud
+181,F00182,T00051339,Yes,High value,97,Cleared
+182,F00183,T00027597,Yes,Merchant risk,98,Confirmed Fraud
+183,F00184,T00040747,,Unusual location,82,Open
+184,F00185,T00057687,No,Multiple failed attempts,53,Confirmed Fraud
+185,F00186,T00065704,Yes,Unusual location,72,Under Review
+186,F00187,T00000966,No,High value,55,Under Review
+187,F00188,T00039125,Yes,Multiple failed attempts,64,Confirmed Fraud
+188,F00189,T00051040,No,Multiple failed attempts,67,Cleared
+189,F00190,T00072921,No,Online suspicious,59,Cleared
+190,F00191,T00021667,Yes,Online suspicious,77,Open
+191,F00192,T00047908,No,Unusual location,62,Confirmed Fraud
+192,F00193,T00043308,No,Unusual location,47,Open
+193,F00194,T00074588,No,High value,41,Open
+194,F00195,T00064564,Yes,Unusual location,93,Confirmed Fraud
+195,F00196,T00039479,No,Merchant risk,50,Open
+196,F00197,T00015652,Yes,Multiple failed attempts,99,Confirmed Fraud
+197,F00198,T00046571,No,Online suspicious,50,Cleared
+198,F00199,T00058510,Yes,Online suspicious,97,Confirmed Fraud
+199,F00200,T00034808,Yes,Multiple failed attempts,86,Under Review
+200,F00201,T00056739,No,Unusual location,46,Cleared
+201,F00202,T00000724,No,Online suspicious,52,Cleared
+202,F00203,T00046708,Yes,High value,95,Cleared
+203,F00204,T00002644,No,Unusual location,46,Confirmed Fraud
+204,F00205,T00022117,Yes,Online suspicious,87,Open
+205,F00206,T00017273,Yes,Unusual location,81,Open
+206,F00207,T00005434,Yes,Unusual location,58,Under Review
+207,F00208,T00030643,Yes,Unusual location,76,Open
+208,F00209,T00066685,No,Multiple failed attempts,82,Confirmed Fraud
+209,F00210,T00067829,Yes,Unusual location,74,Under Review
+210,F00211,T00015660,Yes,Multiple failed attempts,49,Confirmed Fraud
+211,F00212,T00067888,Yes,High value,74,Under Review
+212,F00213,T00037185,No,Online suspicious,44,Confirmed Fraud
+213,F00214,T00072823,Yes,High value,64,Under Review
+214,F00215,T00032636,Yes,Unusual location,77,Confirmed Fraud
+215,F00216,T00044294,No,Online suspicious,51,Cleared
+216,F00217,T00010572,No,Online suspicious,48,Confirmed Fraud
+217,F00218,T00061455,No,Merchant risk,51,Under Review
+218,F00219,T00022761,Yes,Online suspicious,51,Open
+219,F00220,T00003931,Yes,Unusual location,44,Confirmed Fraud
+220,F00221,T00010728,Yes,High value,99,Confirmed Fraud
+221,F00222,T00057195,Yes,Merchant risk,85,Open
+222,F00223,T00051587,Yes,Merchant risk,44,Cleared
+223,F00224,T00063412,No,Multiple failed attempts,61,Confirmed Fraud
+224,F00225,T00033487,Yes,Multiple failed attempts,69,Cleared
+225,F00226,T00052102,Yes,High value,73,Open
+226,F00227,T00039768,Yes,Unusual location,94,Cleared
+227,F00228,T00037704,Yes,Online suspicious,76,Confirmed Fraud
+228,F00229,T00064496,Yes,Unusual location,51,Open
+229,F00230,T00003369,Yes,Merchant risk,89,Open
+230,F00231,T00072458,Yes,Multiple failed attempts,77,Under Review
+231,F00232,T00008804,Yes,Multiple failed attempts,64,Confirmed Fraud
+232,F00233,T00030677,Yes,Online suspicious,99,Confirmed Fraud
+233,F00234,T00036604,Yes,Merchant risk,93,Under Review
+234,F00235,T00032892,No,Online suspicious,62,Open
+235,F00236,T00005700,Yes,Online suspicious,56,Cleared
+236,F00237,T00065586,Yes,Online suspicious,87,Open
+237,F00238,T00028991,Yes,High value,43,Cleared
+238,F00239,T00047751,No,High value,57,Under Review
+239,F00240,T00051234,Yes,High value,86,Open
+240,F00241,T00025199,No,Online suspicious,54,Confirmed Fraud
+241,F00242,T00008945,Yes,Unusual location,87,Cleared
+242,F00243,T00019732,Yes,Unusual location,56,Open
+243,F00244,T00040493,No,Merchant risk,59,Open
+244,F00245,T00003017,Yes,Multiple failed attempts,87,Confirmed Fraud
+245,F00246,T00052499,Yes,Online suspicious,74,Cleared
+246,F00247,T00009287,Yes,Online suspicious,79,Open
+247,F00248,T00043845,No,Merchant risk,43,Under Review
+248,F00249,T00044899,Yes,Multiple failed attempts,93,Open
+249,F00250,T00048854,Yes,Unusual location,70,Confirmed Fraud
+250,F00251,T00030946,No,High value,50,Under Review
+251,F00252,T00056154,Yes,Unusual location,78,Open
+252,F00253,T00019199,Yes,Multiple failed attempts,40,Confirmed Fraud
+253,F00254,T00022813,Yes,Merchant risk,82,Confirmed Fraud
+254,F00255,T00070903,No,Multiple failed attempts,67,Open
+255,F00256,T00052323,Yes,Merchant risk,90,Under Review
+256,F00257,T00047693,No,Unusual location,66,Cleared
+257,F00258,T00023147,Yes,Online suspicious,60,Cleared
+258,F00259,T00048950,No,Online suspicious,58,Under Review
+259,F00260,T00070344,No,High value,48,Open
+260,F00261,T00035933,Yes,High value,80,Cleared
+261,F00262,T00007900,No,Unusual location,48,Open
+262,F00263,T00067447,No,Multiple failed attempts,69,Under Review
+263,F00264,T00001071,Yes,Online suspicious,83,Under Review
+264,F00265,T00044860,No,Merchant risk,44,Cleared
+265,F00266,T00056180,Yes,Unusual location,74,Cleared
+266,F00267,T00026949,Yes,Online suspicious,49,Under Review
+267,F00268,T00010871,Yes,High value,58,Confirmed Fraud
+268,F00269,T00013850,Yes,Unusual location,95,Cleared
+269,F00270,T00008318,Yes,Online suspicious,77,Cleared
+270,F00271,T00062154,No,Merchant risk,43,Under Review
+271,F00272,T00039078,Yes,Online suspicious,44,Cleared
+272,F00273,T00028855,Yes,Online suspicious,44,Open
+273,F00274,T00030443,Yes,Merchant risk,62,Open
+274,F00275,T00050040,,Online suspicious,62,Under Review
+275,F00276,T00002801,Yes,Merchant risk,65,Cleared
+276,F00277,T00053182,Yes,Online suspicious,92,Confirmed Fraud
+277,F00278,T00022808,Yes,Online suspicious,74,Open
+278,F00279,T00010867,Yes,Online suspicious,56,Confirmed Fraud
+279,F00280,T00026027,Yes,Merchant risk,87,Open
+280,F00281,T00054152,Yes,Multiple failed attempts,70,Open
+281,F00282,T00067052,Yes,Unusual location,75,Open
+282,F00283,T00060991,Yes,Multiple failed attempts,75,Under Review
+283,F00284,T00018719,Yes,Unusual location,65,Open
+284,F00285,T00039943,Yes,Unusual location,80,Open
+285,F00286,T00016217,Yes,Merchant risk,91,Under Review
+286,F00287,T00074841,Yes,High value,53,Confirmed Fraud
+287,F00288,T00015324,Yes,Unusual location,92,Confirmed Fraud
+288,F00289,T00070476,Yes,Merchant risk,89,Cleared
+289,F00290,T00052817,Yes,High value,76,Under Review
+290,F00291,T00022312,Yes,Merchant risk,66,Confirmed Fraud
+291,F00292,T00059798,No,Online suspicious,57,Under Review
+292,F00293,T00054412,No,Merchant risk,46,Cleared
+293,F00294,T00013785,No,High value,63,Under Review
+294,F00295,T00005706,Yes,Merchant risk,44,Under Review
+295,F00296,T00007174,Yes,Merchant risk,77,Cleared
+296,F00297,T00070616,No,Multiple failed attempts,40,Under Review
+297,F00298,T00041718,No,High value,43,Under Review
+298,F00299,T00054414,Yes,Online suspicious,74,Open
+299,F00300,T00011913,No,Multiple failed attempts,56,Confirmed Fraud
+300,F00301,T00017547,Yes,High value,74,Open
+301,F00302,T00015802,Yes,Merchant risk,77,Confirmed Fraud
+302,F00303,T00040299,No,Online suspicious,50,Under Review
+303,F00304,T00046129,Yes,Online suspicious,98,Open
+304,F00305,T00006531,Yes,Unusual location,41,Cleared
+305,F00306,T00059667,No,Unusual location,66,Confirmed Fraud
+306,F00307,T00035030,Yes,Multiple failed attempts,68,Confirmed Fraud
+307,F00308,T00002774,Yes,Online suspicious,73,Cleared
+308,F00309,T00055935,No,High value,48,Under Review
+309,F00310,T00000867,No,High value,45,Cleared
+310,F00311,T00013244,No,Merchant risk,58,Confirmed Fraud
+311,F00312,T00001079,Yes,Merchant risk,89,Confirmed Fraud
+312,F00313,T00007410,Yes,Online suspicious,71,Confirmed Fraud
+313,F00314,T00072493,Yes,Online suspicious,44,Cleared
+314,F00315,T00036624,Yes,Unusual location,42,Confirmed Fraud
+315,F00316,T00032554,Yes,Merchant risk,65,Confirmed Fraud
+316,F00317,T00005892,No,High value,52,Cleared
+317,F00318,T00048168,Yes,Multiple failed attempts,62,Open
+318,F00319,T00062746,Yes,Unusual location,50,Cleared
+319,F00320,T00068333,Yes,Unusual location,65,Cleared
+320,F00321,T00059306,Yes,High value,88,Open
+321,F00322,T00013766,Yes,Unusual location,74,Under Review
+322,F00323,T00031362,No,Merchant risk,56,Confirmed Fraud
+323,F00324,T00019806,Yes,Unusual location,82,Open
+324,F00325,T00048288,Yes,Online suspicious,85,Confirmed Fraud
+325,F00326,T00071444,No,Unusual location,45,Open
+326,F00327,T00038327,Yes,Online suspicious,94,Under Review
+327,F00328,T00044361,No,Online suspicious,48,Under Review
+328,F00329,T00068326,Yes,Merchant risk,69,Open
+329,F00330,T00013758,Yes,Unusual location,54,Confirmed Fraud
+330,F00331,T00051377,No,Online suspicious,46,Under Review
+331,F00332,T00046991,No,Multiple failed attempts,49,Confirmed Fraud
+332,F00333,T00052918,Yes,Online suspicious,46,Cleared
+333,F00334,T00044919,Yes,Unusual location,63,Under Review
+334,F00335,T00049212,Yes,High value,64,Under Review
+335,F00336,T00023076,No,Merchant risk,59,Under Review
+336,F00337,T00042143,Yes,Merchant risk,81,Open
+337,F00338,T00021925,Yes,Online suspicious,57,Open
+338,F00339,T00022110,Yes,Merchant risk,88,Open
+339,F00340,T00024833,No,Online suspicious,45,Open
+340,F00341,T00063488,Yes,Multiple failed attempts,64,Open
+341,F00342,T00048244,,Unusual location,90,Cleared
+342,F00343,T00067992,Yes,Unusual location,46,Cleared
+343,F00344,T00036008,Yes,Unusual location,60,Open
+344,F00345,T00013286,Yes,Multiple failed attempts,56,Open
+345,F00346,T00014237,Yes,Multiple failed attempts,77,Under Review
+346,F00347,T00061741,Yes,Online suspicious,71,Confirmed Fraud
+347,F00348,T00004370,No,Multiple failed attempts,56,Open
+348,F00349,T00064896,Yes,Multiple failed attempts,78,Open
+349,F00350,T00014245,Yes,Multiple failed attempts,41,Open
+350,F00351,T00041334,No,Merchant risk,54,Cleared
+351,F00352,T00043160,Yes,Merchant risk,91,Under Review
+352,F00353,T00068140,Yes,High value,62,Cleared
+353,F00354,T00049890,Yes,Multiple failed attempts,57,Under Review
+354,F00355,T00005133,Yes,Unusual location,69,Confirmed Fraud
+355,F00356,T00032273,Yes,Multiple failed attempts,52,Confirmed Fraud
+356,F00357,T00011498,Yes,Online suspicious,67,Open
+357,F00358,T00058652,No,Online suspicious,53,Under Review
+358,F00359,T00034480,Yes,Unusual location,73,Under Review
+359,F00360,T00044212,Yes,High value,67,Cleared
+360,F00361,T00036737,Yes,Merchant risk,46,Under Review
+361,F00362,T00001356,Yes,Online suspicious,98,Confirmed Fraud
+362,F00363,T00005029,No,High value,68,Confirmed Fraud
+363,F00364,T00013762,Yes,Multiple failed attempts,70,Cleared
+364,F00365,T00053392,Yes,High value,80,Under Review
+365,F00366,T00011963,No,Online suspicious,50,Under Review
+366,F00367,T00059135,Yes,Online suspicious,81,Confirmed Fraud
+367,F00368,T00057805,Yes,Merchant risk,62,Cleared
+368,F00369,T00013519,No,Merchant risk,41,Cleared
+369,F00370,T00020011,Yes,Online suspicious,82,Confirmed Fraud
+370,F00371,T00003741,Yes,Unusual location,63,Cleared
+371,F00372,T00013157,Yes,Multiple failed attempts,44,Under Review
+372,F00373,T00050278,Yes,Merchant risk,72,Under Review
+373,F00374,T00060507,No,Online suspicious,65,Cleared
+374,F00375,T00017056,Yes,Online suspicious,81,Under Review
+375,F00376,T00005815,Yes,Online suspicious,78,Confirmed Fraud
+376,F00377,T00049544,Yes,Multiple failed attempts,43,Confirmed Fraud
+377,F00378,T00030022,Yes,Merchant risk,97,Open
+378,F00379,T00031353,Yes,Merchant risk,83,Cleared
+379,F00380,T00018710,Yes,Multiple failed attempts,92,Under Review
+380,F00381,T00066042,Yes,Online suspicious,79,Cleared
+381,F00382,T00010294,Yes,Multiple failed attempts,87,Cleared
+382,F00383,T00051366,Yes,Unusual location,61,Under Review
+383,F00384,T00027446,Yes,Online suspicious,88,Open
+384,F00385,T00067425,Yes,Merchant risk,61,Confirmed Fraud
+385,F00386,T00037427,Yes,Unusual location,86,Open
+386,F00387,T00022962,Yes,Multiple failed attempts,82,Under Review
+387,F00388,T00025334,Yes,High value,47,Under Review
+388,F00389,T00006272,No,Online suspicious,66,Cleared
+389,F00390,T00015286,Yes,High value,52,Confirmed Fraud
+390,F00391,T00024586,Yes,Unusual location,83,Open
+391,F00392,T00063259,Yes,High value,43,Under Review
+392,F00393,T00055666,Yes,Online suspicious,78,Open
+393,F00394,T00040283,Yes,Online suspicious,51,Under Review
+394,F00395,T00049824,No,Unusual location,58,Open
+395,F00396,T00056420,Yes,High value,94,Under Review
+396,F00397,T00004966,Yes,Online suspicious,44,Confirmed Fraud
+397,F00398,T00025562,Yes,Merchant risk,94,Confirmed Fraud
+398,F00399,T00043007,Yes,Online suspicious,94,Open
+399,F00400,T00020922,Yes,Multiple failed attempts,44,Cleared
+400,F00401,T00000368,No,Multiple failed attempts,52,Cleared
+401,F00402,T00038101,Yes,High value,59,Open
+402,F00403,T00032272,Yes,High value,88,Cleared
+403,F00404,T00055830,Yes,Online suspicious,47,Cleared
+404,F00405,T00018007,No,Unusual location,52,Open
+405,F00406,T00006964,No,Merchant risk,62,Cleared
+406,F00407,T00001174,No,Online suspicious,50,Under Review
+407,F00408,T00074309,Yes,Online suspicious,73,Under Review
+408,F00409,T00020831,Yes,High value,76,Cleared
+409,F00410,T00050468,No,Unusual location,69,Open
+410,F00411,T00041083,Yes,Merchant risk,98,Open
+411,F00412,T00072011,Yes,Unusual location,90,Under Review
+412,F00413,T00008778,Yes,Merchant risk,96,Under Review
+413,F00414,T00051188,No,High value,52,Confirmed Fraud
+414,F00415,T00029609,Yes,Unusual location,91,Confirmed Fraud
+415,F00416,T00067045,Yes,Multiple failed attempts,60,Confirmed Fraud
+416,F00417,T00004242,No,Online suspicious,66,Confirmed Fraud
+417,F00418,T00040610,Yes,Online suspicious,73,Under Review
+418,F00419,T00067017,Yes,Online suspicious,58,Under Review
+419,F00420,T00040181,No,Online suspicious,53,Cleared
+420,F00421,T00027339,Yes,Online suspicious,57,Open
+421,F00422,T00019518,No,Unusual location,42,Confirmed Fraud
+422,F00423,T00022926,Yes,High value,86,Open
+423,F00424,T00030636,Yes,Online suspicious,67,Cleared
+424,F00425,T00006778,Yes,Merchant risk,89,Under Review
+425,F00426,T00043197,Yes,Online suspicious,62,Confirmed Fraud
+426,F00427,T00027292,No,Unusual location,52,Open
+427,F00428,T00067966,Yes,Multiple failed attempts,89,Confirmed Fraud
+428,F00429,T00056056,Yes,High value,51,Open
+429,F00430,T00026596,No,Online suspicious,60,Open
+430,F00431,T00011267,No,Online suspicious,44,Cleared
+431,F00432,T00005760,Yes,Merchant risk,84,Open
+432,F00433,T00013527,Yes,High value,96,Open
+433,F00434,T00052214,Yes,High value,88,Cleared
+434,F00435,T00052175,No,Merchant risk,52,Under Review
+435,F00436,T00023951,Yes,High value,64,Cleared
+436,F00437,T00023106,No,Online suspicious,54,Cleared
+437,F00438,T00066330,Yes,Online suspicious,74,Under Review
+438,F00439,T00045724,Yes,Merchant risk,91,Open
+439,F00440,T00032552,Yes,Unusual location,93,Cleared
+440,F00441,T00059491,Yes,Merchant risk,71,Open
+441,F00442,T00029925,Yes,High value,98,Open
+442,F00443,T00018631,Yes,Multiple failed attempts,77,Confirmed Fraud
+443,F00444,T00054975,Yes,High value,46,Confirmed Fraud
+444,F00445,T00008292,Yes,Merchant risk,62,Open
+445,F00446,T00033023,No,Multiple failed attempts,51,Open
+446,F00447,T00052404,No,Unusual location,67,Cleared
+447,F00448,T00029113,Yes,Online suspicious,63,Cleared
+448,F00449,T00071016,No,Online suspicious,70,Confirmed Fraud
+449,F00450,T00046862,No,High value,43,Confirmed Fraud
+450,F00451,T00061885,Yes,Online suspicious,72,Open
+451,F00452,T00025307,Yes,Merchant risk,80,Under Review
+452,F00453,T00041805,Yes,Online suspicious,72,Open
+453,F00454,T00003460,No,High value,40,Open
+454,F00455,T00029616,No,Online suspicious,56,Under Review
+455,F00456,T00019465,Yes,Multiple failed attempts,87,Under Review
+456,F00457,T00068682,Yes,Unusual location,77,Open
+457,F00458,T00007001,Yes,Unusual location,48,Cleared
+458,F00459,T00059457,Yes,Multiple failed attempts,57,Cleared
+459,F00460,T00023776,Yes,Merchant risk,51,Confirmed Fraud
+460,F00461,T00021103,Yes,Unusual location,61,Cleared
+461,F00462,T00056705,Yes,Unusual location,96,Cleared
+462,F00463,T00026298,No,Multiple failed attempts,62,Cleared
+463,F00464,T00029036,Yes,Multiple failed attempts,80,Open
+464,F00465,T00026812,Yes,Multiple failed attempts,82,Under Review
+465,F00466,T00068034,Yes,Merchant risk,79,Under Review
+466,F00467,T00070598,Yes,Online suspicious,92,Cleared
+467,F00468,T00036932,Yes,Merchant risk,73,Open
+468,F00469,T00061483,No,Unusual location,55,Cleared
+469,F00470,T00020772,No,Merchant risk,44,Open
+470,F00471,T00073311,Yes,Online suspicious,86,Cleared
+471,F00472,T00014789,Yes,Multiple failed attempts,71,Confirmed Fraud
+472,F00473,T00046332,Yes,Merchant risk,64,Open
+473,F00474,T00073911,Yes,Online suspicious,79,Cleared
+474,F00475,T00007880,Yes,Multiple failed attempts,51,Open
+475,F00476,T00029079,No,Multiple failed attempts,87,Cleared
+476,F00477,T00014216,Yes,Unusual location,86,Cleared
+477,F00478,T00056021,Yes,Merchant risk,99,Confirmed Fraud
+478,F00479,T00058149,Yes,Multiple failed attempts,72,Open
+479,F00480,T00006681,No,Merchant risk,49,Cleared
+480,F00481,T00042612,No,Online suspicious,47,Under Review
+481,F00482,T00024524,No,Unusual location,68,Cleared
+482,F00483,T00051001,No,Unusual location,46,Confirmed Fraud
+483,F00484,T00067043,No,Online suspicious,65,Under Review
+484,F00485,T00001948,Yes,Online suspicious,91,Confirmed Fraud
+485,F00486,T00028108,Yes,Merchant risk,63,Cleared
+486,F00487,T00059015,No,Merchant risk,58,Under Review
+487,F00488,T00047072,Yes,High value,73,Under Review
+488,F00489,T00061589,Yes,High value,84,Confirmed Fraud
+489,F00490,T00001340,Yes,Unusual location,67,Cleared
+490,F00491,T00014589,Yes,Unusual location,67,Under Review
+491,F00492,T00046410,Yes,Online suspicious,86,Cleared
+492,F00493,T00046511,Yes,High value,95,Cleared
+493,F00494,T00049904,Yes,Multiple failed attempts,46,Confirmed Fraud
+494,F00495,T00068147,No,Online suspicious,65,Open
+495,F00496,T00020925,Yes,Online suspicious,81,Open
+496,F00497,T00052349,Yes,Online suspicious,92,Open
+497,F00498,T00067843,No,Multiple failed attempts,60,Under Review
+498,F00499,T00042460,Yes,High value,49,Open
+499,F00500,T00066817,Yes,Merchant risk,55,Cleared
+500,F00501,T00049592,No,Online suspicious,48,Cleared
+501,F00502,T00023655,Yes,Merchant risk,44,Under Review
+502,F00503,T00001576,No,Multiple failed attempts,69,Under Review
+503,F00504,T00029365,Yes,Multiple failed attempts,83,Open
+504,F00505,T00037131,No,High value,46,Under Review
+505,F00506,T00053519,No,Online suspicious,68,Cleared
+506,F00507,T00002032,Yes,Merchant risk,94,Under Review
+507,F00508,T00007979,Yes,High value,51,Cleared
+508,F00509,T00053478,Yes,Unusual location,94,Under Review
+509,F00510,T00018949,Yes,High value,82,Under Review
+510,F00511,T00045350,Yes,High value,85,Confirmed Fraud
+511,F00512,T00010455,No,Unusual location,60,Cleared
+512,F00513,T00011352,No,Online suspicious,45,Under Review
+513,F00514,T00051982,No,Multiple failed attempts,57,Cleared
+514,F00515,T00069736,Yes,High value,96,Confirmed Fraud
+515,F00516,T00011867,Yes,Multiple failed attempts,91,Cleared
+516,F00517,T00009102,Yes,Online suspicious,50,Open
+517,F00518,T00036657,Yes,Online suspicious,91,Under Review
+518,F00519,T00062919,Yes,High value,95,Under Review
+519,F00520,T00002775,Yes,Online suspicious,94,Confirmed Fraud
+520,F00521,T00048818,Yes,Online suspicious,65,Confirmed Fraud
+521,F00522,T00060207,Yes,Unusual location,59,Cleared
+522,F00523,T00049432,Yes,Merchant risk,70,Cleared
+523,F00524,T00004268,Yes,Unusual location,74,Confirmed Fraud
+524,F00525,T00062095,Yes,Online suspicious,66,Cleared
+525,F00526,T00047799,Yes,Multiple failed attempts,87,Open
+526,F00527,T00066292,Yes,High value,77,Under Review
+527,F00528,T00005634,Yes,Merchant risk,40,Cleared
+528,F00529,T00023335,Yes,Multiple failed attempts,46,Confirmed Fraud
+529,F00530,T00067205,No,Merchant risk,44,Open
+530,F00531,T00041025,Yes,Online suspicious,55,Under Review
+531,F00532,T00039764,Yes,Online suspicious,77,Open
+532,F00533,T00018743,Yes,High value,73,Confirmed Fraud
+533,F00534,T00041744,Yes,Online suspicious,68,Confirmed Fraud
+534,F00535,T00003549,Yes,High value,96,Cleared
+535,F00536,T00017957,Yes,Online suspicious,54,Open
+536,F00537,T00044661,No,Multiple failed attempts,64,Open
+537,F00538,T00013110,No,Merchant risk,50,Under Review
+538,F00539,T00054531,Yes,Online suspicious,45,Under Review
+539,F00540,T00064323,No,Online suspicious,62,Under Review
+540,F00541,T00056984,Yes,Multiple failed attempts,80,Confirmed Fraud
+541,F00542,T00070662,Yes,Unusual location,61,Open
+542,F00543,T00002026,Yes,High value,80,Cleared
+543,F00544,T00048894,Yes,Online suspicious,72,Cleared
+544,F00545,T00042155,Yes,Merchant risk,62,Confirmed Fraud
+545,F00546,T00051854,Yes,High value,90,Cleared
+546,F00547,T00073249,Yes,Online suspicious,84,Open
+547,F00548,T00006620,Yes,Merchant risk,75,Cleared
+548,F00549,T00034132,No,Online suspicious,56,Confirmed Fraud
+549,F00550,T00061022,Yes,High value,81,Cleared
+550,F00551,T00000574,Yes,Multiple failed attempts,78,Open
+551,F00552,T00067070,No,Merchant risk,69,Confirmed Fraud
+552,F00553,T00036150,,Multiple failed attempts,92,Confirmed Fraud
+553,F00554,T00050674,Yes,High value,72,Cleared
+554,F00555,T00028921,Yes,Online suspicious,99,Open
+555,F00556,T00032186,No,Multiple failed attempts,54,Under Review
+556,F00557,T00026438,No,High value,46,Cleared
+557,F00558,T00048886,Yes,Merchant risk,47,Confirmed Fraud
+558,F00559,T00041636,Yes,Online suspicious,97,Cleared
+559,F00560,T00009382,Yes,Merchant risk,70,Under Review
+560,F00561,T00044478,No,Unusual location,48,Confirmed Fraud
+561,F00562,T00049059,Yes,Merchant risk,70,Cleared
+562,F00563,T00057395,Yes,Online suspicious,49,Confirmed Fraud
+563,F00564,T00059982,Yes,High value,80,Open
+564,F00565,T00037629,Yes,Multiple failed attempts,57,Cleared
+565,F00566,T00009462,Yes,Merchant risk,83,Under Review
+566,F00567,T00047124,Yes,Multiple failed attempts,80,Cleared
+567,F00568,T00039538,Yes,Merchant risk,94,Under Review
+568,F00569,T00022669,Yes,Merchant risk,82,Cleared
+569,F00570,T00060142,No,Merchant risk,46,Cleared
+570,F00571,T00063396,Yes,Online suspicious,66,Cleared
+571,F00572,T00058418,Yes,Online suspicious,79,Confirmed Fraud
+572,F00573,T00011084,Yes,Unusual location,89,Confirmed Fraud
+573,F00574,T00045767,Yes,Online suspicious,98,Open
+574,F00575,T00012314,Yes,Online suspicious,71,Under Review
+575,F00576,T00074870,Yes,Merchant risk,84,Open
+576,F00577,T00061487,No,Multiple failed attempts,55,Under Review
+577,F00578,T00042914,No,Merchant risk,69,Open
+578,F00579,T00012834,Yes,Merchant risk,94,Cleared
+579,F00580,T00004757,Yes,Multiple failed attempts,96,Confirmed Fraud
+580,F00581,T00016778,Yes,Merchant risk,64,Under Review
+581,F00582,T00045858,No,Unusual location,45,Cleared
+582,F00583,T00012884,Yes,Online suspicious,97,Open
+583,F00584,T00005897,Yes,High value,74,Open
+584,F00585,T00054963,No,High value,55,Open
+585,F00586,T00041481,Yes,High value,75,Confirmed Fraud
+586,F00587,T00005592,Yes,High value,83,Confirmed Fraud
+587,F00588,T00057206,Yes,Online suspicious,81,Open
+588,F00589,T00017806,Yes,Online suspicious,77,Open
+589,F00590,T00060070,Yes,Online suspicious,73,Confirmed Fraud
+590,F00591,T00058423,Yes,Online suspicious,88,Cleared
+591,F00592,T00002044,No,Unusual location,43,Cleared
+592,F00593,T00000931,Yes,Online suspicious,41,Confirmed Fraud
+593,F00594,T00022878,Yes,Merchant risk,80,Under Review
+594,F00595,T00069880,Yes,Merchant risk,92,Confirmed Fraud
+595,F00596,T00006633,No,Unusual location,64,Confirmed Fraud
+596,F00597,T00042416,Yes,Multiple failed attempts,97,Confirmed Fraud
+597,F00598,T00047242,Yes,Unusual location,60,Under Review
+598,F00599,T00050604,Yes,Multiple failed attempts,88,Open
+599,F00600,T00063860,Yes,Unusual location,53,Cleared
+600,F00601,T00024957,Yes,Online suspicious,63,Confirmed Fraud
+601,F00602,T00016314,Yes,Unusual location,69,Under Review
+602,F00603,T00047787,Yes,Multiple failed attempts,71,Cleared
+603,F00604,T00018114,Yes,High value,81,Confirmed Fraud
+604,F00605,T00027737,Yes,Unusual location,92,Cleared
+605,F00606,T00048930,Yes,High value,93,Open
+606,F00607,T00071473,Yes,Multiple failed attempts,92,Under Review
+607,F00608,T00034945,No,Merchant risk,50,Open
+608,F00609,T00064215,Yes,Multiple failed attempts,72,Open
+609,F00610,T00026186,Yes,Merchant risk,76,Under Review
+610,F00611,T00046855,Yes,Online suspicious,97,Open
+611,F00612,T00062782,Yes,Merchant risk,58,Confirmed Fraud
+612,F00613,T00033686,Yes,Unusual location,92,Open
+613,F00614,T00023560,No,Unusual location,69,Cleared
+614,F00615,T00034637,Yes,High value,96,Cleared
+615,F00616,T00019962,Yes,High value,84,Open
+616,F00617,T00015607,Yes,Online suspicious,77,Under Review
+617,F00618,T00007252,Yes,Online suspicious,69,Cleared
+618,F00619,T00045685,Yes,Unusual location,88,Open
+619,F00620,T00054458,No,Multiple failed attempts,48,Under Review
+620,F00621,T00020424,Yes,Multiple failed attempts,73,Under Review
+621,F00622,T00066552,Yes,Unusual location,57,Cleared
+622,F00623,T00046362,Yes,Multiple failed attempts,65,Cleared
+623,F00624,T00009819,No,Multiple failed attempts,46,Cleared
+624,F00625,T00043608,Yes,Online suspicious,50,Cleared
+625,F00626,T00067809,Yes,Unusual location,92,Cleared
+626,F00627,T00010085,No,Multiple failed attempts,56,Under Review
+627,F00628,T00012183,Yes,Online suspicious,52,Confirmed Fraud
+628,F00629,T00007555,Yes,Unusual location,79,Confirmed Fraud
+629,F00630,T00061731,No,Merchant risk,65,Open
+630,F00631,T00013683,No,Unusual location,41,Confirmed Fraud
+631,F00632,T00014758,Yes,Multiple failed attempts,79,Open
+632,F00633,T00008280,Yes,Merchant risk,50,Confirmed Fraud
+633,F00634,T00046731,No,Unusual location,57,Under Review
+634,F00635,T00006412,Yes,High value,81,Under Review
+635,F00636,T00021161,No,Merchant risk,54,Under Review
+636,F00637,T00015895,Yes,Online suspicious,71,Cleared
+637,F00638,T00056055,Yes,Merchant risk,96,Cleared
+638,F00639,T00065758,Yes,Unusual location,87,Cleared
+639,F00640,T00005007,Yes,Online suspicious,81,Cleared
+640,F00641,T00013475,Yes,Online suspicious,95,Open
+641,F00642,T00007871,No,Online suspicious,42,Open
+642,F00643,T00006298,Yes,Merchant risk,84,Open
+643,F00644,T00045243,Yes,High value,82,Confirmed Fraud
+644,F00645,T00036696,Yes,Multiple failed attempts,41,Open
+645,F00646,T00046396,Yes,Merchant risk,56,Open
+646,F00647,T00024646,Yes,Online suspicious,75,Open
+647,F00648,T00022744,Yes,Merchant risk,81,Cleared
+648,F00649,T00071824,Yes,Multiple failed attempts,81,Cleared
+649,F00650,T00012481,Yes,Online suspicious,50,Open
